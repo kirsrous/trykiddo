@@ -42,3 +42,14 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+Overview of the application assesment:
+
+How did you decide which technologies to use as part of your solution?
+I have decided to use ReactJS with Redux because i believe it it the simplest way to create a quick application and show i can use the technologies usefully and Tailwindcss because it it the quickest way to set up simple and fast css.
+
+Are there any improvements you could make to your submission?
+Yes,as always there are improvements to be made,such as using Redux Thunk for async API calls,but i have not used Thunk before and it would not be possible to use it without it taking a lot of time to implement.Also,i think i could have used NextJS to upgrade the application and Typescript to make the application more stable but it was specifically designed to use ReactJS and no Typescript.
+
+What would you do differently if you were allocated more time?
+As i did not work with JSON server before i spent some time researching how it works and that took some time to complete.I could have used Redux Thunk for API calls and use hydration to keep the application data saved.
